@@ -39,7 +39,7 @@ The name gives it away, but this is a very basic script. The script is not rich 
 ### MySQL use
 1. Make sure you have MySQL installed. Can use open source software such as WAMP, LAMP, XAMPP etc...
 2. If above software, navigate to http://localhost/phpmyadmin
-3. Create a new database
+3. Create a new database `samp` 
 4. Create a table named `user` and add the following structure
 
  ![alt text](http://i.imgur.com/8UVZ5uw.png "MySQL database")
