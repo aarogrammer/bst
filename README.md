@@ -14,6 +14,7 @@ This script was made to mess around with mates, so it went from a random/stunt G
 ## Features
 The name gives it away, but this is a very basic script. The script is not rich in features, but gives you the chance to make it that way!
 
+###Current supported version: SA-MP 0.3.7-R2
 ###Server plugins/includes
 * MySQL database
 * ZCMD
