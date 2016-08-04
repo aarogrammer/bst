@@ -5,7 +5,7 @@ This is a very simple script that does the basics that you'd expect from a serve
 
 I developed this over a weekend of having nothing to do and haven't used it in a real-server environment.
 
-I have not played this game in 4+ years, but I do enjoy programming in Pawno so I thought I'd make an open source project.
+I have not played this game in 4+ years, but I do enjoy programming in Pawn so I thought I'd make an open source project.
 
 I have no interest in being an admin/developer on any server so please do not ask. If you need help, let me know; do not assume I'll write code for you. I will only advice you on how to do it.
 
