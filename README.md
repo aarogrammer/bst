@@ -1,26 +1,25 @@
-<snippet>
-  <content>
-# Basic Server Template (BST)
+# Basic Server Template (BST)  
+
 This is a very simple script that does the basics that you'd expect from a server.
 
 I developed this over a weekend of having nothing to do and haven't used it in a real-server environment.
 
 I have not played this game in 4+ years, but I do enjoy programming in Pawn so I thought I'd make an open source project.
 
-I have no interest in being an admin/developer on any server so please do not ask. If you need help, let me know; do not assume I'll write code for you. I will only advice you on how to do it.
+I have no interest in being an admin/developer on any server so please do not ask. If you need help, let me know; do not assume I'll write code for you. I will only advise you on how to do it.
 
 This script was made to mess around with mates, so it went from a random/stunt GM to a Roleplay one. It has both features, just edit to what you need.
 
 ## Features
 The name gives it away, but this is a very basic script. The script is not rich in features, but gives you the chance to make it that way!
 
-###Current supported version: SA-MP 0.3.7-R2
-###Server plugins/includes
+### Current supported version: SA-MP 0.3.7-R2
+### Server plugins/includes
 * MySQL database
 * ZCMD
 * sscanf2
 
-####Script features
+### Script features
 * Regsiter/login system (with MySQL database, encrypted passwords)
 * Admin system (good amount of commands, just check out the comments within the code)
 * Interiors for buildings
@@ -84,11 +83,9 @@ This is on GitHub so that others can improve it.
 ## Author
 Aaron Welsh
 
-[http://aaron-welsh.co.uk](http://aaron-welsh.co.uk)
+[http://aaron-welsh.co.uk](https://aaron-welsh.co.uk)
 
 [https://twitter.com/_aaronwelsh](https://twitter.com/_aaronwelsh)
 
 ## License
 MIT
-</content>
-</snippet>
